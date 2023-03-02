@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        supportActionBar?.title = ("Mode List")
+        supportActionBar?.title = ("Ertiga")
 
         rvSerets = findViewById(R.id.rv_seret)
         rvSerets?.setHasFixedSize(true)
