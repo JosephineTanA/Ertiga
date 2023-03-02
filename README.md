@@ -1,2 +1,3 @@
 # Ertiga
-![Screenshot_20230302_141707_Ertiga](https://user-images.githubusercontent.com/98298035/222358080-e4a1caf6-8b64-4d94-a1e3-fa1e8aef5539.jpg)
+
+![Screenshot_20230302_142110_Ertiga](https://user-images.githubusercontent.com/98298035/222359182-75b29fbb-3d6e-4123-912a-93074e44abd0.jpg)
